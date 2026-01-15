@@ -1,38 +1,61 @@
-# Landing Page Pessoal – Samara Vieira
+# 🌐 Portfólio Profissional - Samara Vieira
 
-Landing page simples criada para apresentar meus principais projetos e informações de contato como desenvolvedora web em formação.
+![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsividade](https://img.shields.io/badge/Design-Responsivo-purple?style=for-the-badge)
 
-## Objetivo
+Landing Page desenvolvida para apresentar projetos, serviços e habilidades técnicas. O projeto foi construído com foco em **Clean Code**, **Performance** e **UX/UI Design**, garantindo uma experiência fluida em qualquer dispositivo.
 
-Minha idéia foi construir uma página inicial minimalista e responsiva para funcionar como portifólio pessoal, destacando:
+## 🔗 Acesso Online (Live Demo)
 
-- Nome e área de atuação  
-- Pequena descrição sobre mim  
-- Seções de projetos e contato
+O portfólio está hospedado e acessível publicamente através do GitHub Pages:
 
-## Tecnologias utilizadas
+👉 **[Acessar Portfólio Online](https://2samy6.github.io/portfolio-samara-vieira/)**
 
-- HTML5
-- CSS3 (flexbox, grid, responsividade)
-- Google Fonts (Open Sans, Raleway)
+---
 
-## Destaques do layout
+## 💻 Visão Geral do Projeto
 
-- Hero alinhada à esquerda com tipografia em destaque.
-- Fundo minimalista com grid bem suave apenas na seção principal.
-- Navegação fixa no topo com âncoras para Sobre, Projetos, Currículo e Contato.
-- Cards de projetos com hover e foco em legibilidade.
-- Paleta de cores em tons de roxo para reforçar a identidade visual.
+Esta aplicação web serve como hub central para minha presença digital profissional. A interface foi projetada para ser minimalista, mas visualmente impactante, utilizando contrastes de cores e tipografia moderna para guiar a atenção do usuário.
 
-## Estrutura do projeto
+### Principais Funcionalidades
 
-- `index.html` – Estrutura da página (header, hero, seções Sobre, Projetos e Contato).
-- `style.css` – Estilização completa da landing page.
+* **Hero Section Impactante:** Apresentação clara de valor e serviços logo na primeira dobra.
+* **Showcase de Projetos:** Cards interativos com links diretos para repositórios e demos.
+* **Design Totalmente Responsivo:** Layout fluido que se adapta a resoluções mobile, tablet e desktop (Mobile First).
+* **Navegação Otimizada:** Menu fixo com âncoras suaves (smooth scroll) para melhor usabilidade.
+* **Performance:** Pontuação alta no Lighthouse devido ao uso de CSS puro e carregamento otimizado de fontes.
+
+## 🛠 Tecnologias Utilizadas
+
+* **HTML5 Semântico:** Estrutura otimizada para SEO e acessibilidade.
+* **CSS3 Moderno:**
+    * **Flexbox & CSS Grid:** Para estruturação de layouts complexos.
+    * **Animações CSS:** Transições suaves em hover e estados de foco.
+    * **Variáveis CSS:** Para manutenção consistente da paleta de cores.
+* **Google Fonts:** Tipografias *Open Sans* e *Raleway* para legibilidade e estilo.
+
+## 📂 Estrutura de Arquivos
+
+```bash
+/
+├── index.html   # Markup principal e conteúdo
+├── style.css    # Folhas de estilo e regras de responsividade
+└── doc/         # Documentação complementar e assets
+```
 
 
-## Próximos passos
+## 🚀 Instalação e Execução
 
-- Publicar a landing page no GitHub Pages ou Vercel.
-- Adicionar novos projetos à seção de portfólio.
-- Criar uma versão em inglês da página.
+Para rodar este projeto localmente em sua máquina:
 
+1. Clone o repositório:
+
+git clone [https://github.com/2Samy6/portfolio-samara-vieira.git](https://github.com/2Samy6/portfolio-samara-vieira.git)
+
+2. Abra o arquivo index.html no seu navegador.
+
+## 📄 Licença
+
+Desenvolvido por Samara Vieira.
